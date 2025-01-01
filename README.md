@@ -43,7 +43,7 @@ Untuk menjalankan server dalam mode pengembangan:
 
 npm run dev
 
-Server akan berjalan di http://localhost:5000.
+Server akan berjalan di http://localhost:3000.
 Struktur Direktori
 
 BE-ecommerce/
